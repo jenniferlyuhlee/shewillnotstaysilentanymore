@@ -1,6 +1,8 @@
 /* CSS files add styling rules to your content */
 
 body {
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
 }
@@ -13,6 +15,14 @@ h1 {
 /*index page*/
 #index{
   background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Ftw%20cover.png?v=1618461432258");
-  background-size: cover;
-  background-repeat: no-rep
+  font-family: verdana, helvetica, sans-serif;
+}
+#enter{
+  color: black;
+  position: center;
+}
+#tw{
+  color: rgba(255, 214, 0, 1);
+  text-align: center;
+  font-size: windowWidth; 
 }
