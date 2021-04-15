@@ -12,6 +12,16 @@ h1 {
   color: #373fff;
 }
 
+a:link{
+  color:black;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color:rgba(255, 214, 0, 1);
+}
+
 /*index page*/
 #index{
   background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Ftw%20cover.png?v=1618461432258");
@@ -19,18 +29,13 @@ h1 {
   text-align: center;
 }
 #enter{
-  color: black;
   position: relative; 
   top: 20vw;
   font-size: 4vw;
-  
-  
 }
+
 #tw{
   color: rgba(255, 214, 0, 1);
   font-size: 2.5vw;
   position: relative;
-}
-#tw1{
-  
 }
