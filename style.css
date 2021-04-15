@@ -21,14 +21,17 @@ h1 {
 #enter{
   color: black;
   position: relative; 
+  top: vw;
   font-size: 4vw;
   
   
 }
 #tw{
-  border-style:solid;
   color: rgba(255, 214, 0, 1);
   font-size: 2.5vw;
-  //margin:0px, 0px, 0px, 0px;
-  padding:0px;
+  position: relative;
+}
+#tw1{
+
+  
 }
