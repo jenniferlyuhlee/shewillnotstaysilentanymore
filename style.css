@@ -1,5 +1,15 @@
 /* CSS files add styling rules to your content */
 
+@font-face {
+    font-family:'reenie_beanieregular';
+    src: url('reeniebeanie-regular-webfont.woff2') format('woff2'),
+         url('reeniebeanie-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
 body {
   background-size: cover;
   background-repeat: no-repeat;
@@ -9,11 +19,11 @@ body {
 
 
 a:link{
-  color:white;
+  color:black;
   text-decoration:none;
 }
 a:visited{
-  color: white;
+  color: black;
 }
 a:hover{
   color:rgba(255, 214, 0, 1);
@@ -26,20 +36,10 @@ a:hover{
   text-align: center;
 }
 #enter{
-  position: relative; 
-  top: 20vw;
+  left:0;
+  margin-top: 20vw;
   font-size: 4vw;
 }
-#enter:link{
-  color:black;
-}
-#enter:visited{
-  color:black;
-}
-#enter:hover{
-  color:rgba(255, 214, 0, 1);
-}
-
 #tw{
   color: rgba(255, 214, 0, 1);
   font-size: 2.5vw;
@@ -51,9 +51,11 @@ a:hover{
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
 }
 #homepage{
+  font-family:reenie_beanieregular;
   text-align: center;
   color:white;
   font-size:4vw;
   left: 0;
   margin-top: 30vw;
+#homepage
 }
