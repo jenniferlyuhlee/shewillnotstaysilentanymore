@@ -1,6 +1,6 @@
 /* CSS files add styling rules to your content */
 
-@font-face {
+@font-face{
     font-family:'reenie_beanieregular';
     src: url('reeniebeanie-regular-webfont.woff2') format('woff2'),
          url('reeniebeanie-regular-webfont.woff') format('woff');
@@ -9,12 +9,15 @@
 }
 
 
-
-body {
+body{
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Helvetica, Arial, sans-serif;
   margin: 2em;
+}
+
+p{
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 a:link{
@@ -28,9 +31,6 @@ a:hover{
   color:rgba(255, 214, 0, 1);
 }
 
-.text{
-  font-family: Helvetica, Arial, sans-serif;
-}
 
 /*index page*/
 #index{
@@ -54,14 +54,14 @@ h1{
 #home{
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
 }
-#homepage{
+.homepage{
   font-family:reenie_beanieregular;
   color:white;
 }
-#homepage:link{
+.homepage:link{
     color:white
 }
-#homepage:visited{
+.homepage:visited{
     color:white
 }
 
