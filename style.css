@@ -21,7 +21,7 @@ h1 {
 #enter{
   color: black;
   position: relative; 
-  top: vw;
+  top: 20vw;
   font-size: 4vw;
   
   
@@ -32,6 +32,5 @@ h1 {
   position: relative;
 }
 #tw1{
-
   
 }
