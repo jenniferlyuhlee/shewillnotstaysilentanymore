@@ -13,10 +13,9 @@
 body {
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: helvetica, arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   margin: 2em;
 }
-
 
 a:link{
   color:black;
@@ -29,21 +28,26 @@ a:hover{
   color:rgba(255, 214, 0, 1);
 }
 
+.text{
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 /*index page*/
 #index{
   background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Ftw%20cover.png?v=1618461432258");
   font-family: verdana, helvetica, sans-serif;
-  text-align: center;
-}
-#enter{
-  left:0;
-  margin-top: 20vw;
-  font-size: 4vw;
 }
 #tw{
   color: rgba(255, 214, 0, 1);
   font-size: 2.5vw;
   position: relative;
+}
+
+h1{
+  text-align: center;
+  font-size:8vw;
+  left: 0;
+  margin-top: 30vw;
 }
 
 /*home page*/
@@ -52,10 +56,13 @@ a:hover{
 }
 #homepage{
   font-family:reenie_beanieregular;
-  text-align: center;
   color:white;
-  font-size:4vw;
-  left: 0;
-  margin-top: 30vw;
-#homepage
 }
+#homepage:link{
+    color:white
+}
+#homepage:visited{
+    color:white
+}
+
+/*about page*/
