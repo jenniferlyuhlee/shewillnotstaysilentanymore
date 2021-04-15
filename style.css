@@ -7,18 +7,17 @@ body {
   margin: 2em;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
-}
 
 a:link{
   color:white;
+  text-decoration:none;
 }
 a:visited{
   color: white;
 }
-
+a:hover{
+  color:rgba(255, 214, 0, 1);
+}
 
 /*index page*/
 #index{
@@ -49,5 +48,10 @@ a:visited{
 
 /*home page*/
 #home{
-  background-image: url("https://img.koreatimes.co.kr/upload/newsV2/images/202010/ef20ebdd862d4f04a6e179d38908aee2.jpg/dims/resize/740/optimize");
+  background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
+}
+#homepage{
+  text-align: center;
+  color:white;
+  font-size:2.5vw;
 }
