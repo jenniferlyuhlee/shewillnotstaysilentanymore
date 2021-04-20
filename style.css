@@ -92,6 +92,15 @@ a.homepage:hover{
 
 
 /*archives page*/
-#profiles{
+.archives{
   text-align: center;
+}
+.yongsu{
+  padding:5vh;
+}
+.bokdong{
+  padding:5vh;
+}
+.estelita{
+  padding:5vh;
 }
