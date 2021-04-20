@@ -35,6 +35,10 @@ a:hover{
   text-align:center;
   padding: 10vw;
 }
+.bcursor{
+  cursor: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fbutterfly.png?v=1618901369440"), auto;
+}
+
 
 
 
@@ -44,7 +48,6 @@ a:hover{
   font-family: verdana, helvetica, sans-serif;
   text-align:center;
 }
-
 .tw{
   color: rgba(255, 214, 0, 1);
   font-size: 2.5vw;
@@ -68,10 +71,13 @@ h3{
   color:white;
 }
 a.homepage:link{
-    color:white;
+  color:white;
 }
 a.homepage:visited{
-    color:white;
+  color:white;
+}
+a.homepage:hover{
+  
 }
 
 /*about page*/
