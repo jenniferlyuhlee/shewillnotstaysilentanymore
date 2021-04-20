@@ -67,8 +67,9 @@ h3{
 /*home page*/
 .home{
   text-align:center;
-  background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
+  /*background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");*/
   color:white;
+  background: black;
 }
 a.homepage:link{
   color:white;
