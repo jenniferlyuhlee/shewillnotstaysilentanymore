@@ -32,6 +32,15 @@ a:hover{
   color:rgba(255, 214, 0, 1);
 }
 
+.arrow{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
+}
+
 
 /*index page*/
 .index{
@@ -72,8 +81,11 @@ h3{
 
 /*about page*/
 .about{
+  
+}
+.aimages{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 60%;
 }
