@@ -67,9 +67,8 @@ h3{
 /*home page*/
 .home{
   text-align:center;
-  /*background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");*/
+  background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
   color:white;
-  background: black;
 }
 a.homepage:link{
   color:white;
@@ -78,7 +77,9 @@ a.homepage:visited{
   color:white;
 }
 a.homepage:hover{
-  background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcrossout.png?v=1618902352175" width=20vw);
+ background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcrossout.png?v=1618902352175");
+ background-repeat:no-repeat;
+ background-size: 100%;
 }
 
 /*about page*/
