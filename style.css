@@ -32,7 +32,7 @@ a:hover{
   color:rgba(255, 214, 0, 1);
 }
 
-.arrow{
+a.arrow{
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -68,14 +68,12 @@ h3{
 .home{
   text-align:center;
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
-}
-.homepage{
   color:white;
 }
-.homepage:link{
+a.homepage:link{
     color:white;
 }
-.homepage:visited{
+a.homepage:visited{
     color:white;
 }
 
@@ -89,3 +87,5 @@ h3{
   margin-right: auto;
   width: 60%;
 }
+
+
