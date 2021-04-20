@@ -32,13 +32,8 @@ a:hover{
   color:rgba(255, 214, 0, 1);
 }
 
-a.arrow{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
-
+.arrow{
+  text-align:center;
 }
 
 
