@@ -1,7 +1,13 @@
 /* CSS files add styling rules to your content */
 
+@font-face {
+    font-family: 'reenie_beanieregular';
+    src: url('reeniebeanie-regular-webfont.woff2') format('woff2'),
+         url('reeniebeanie-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
-
+}
 
 .text{
     display: none;
@@ -14,8 +20,6 @@
 .button-example{
     margin-top: 100px; 
 }
-
-
 
 
 
@@ -65,6 +69,7 @@ h1{
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
 }
 .homepage{
+  font-family: reenie_beanieregular;
   color:white;
 }
 .homepage:link{
