@@ -9,7 +9,7 @@
 }
 
 
-
+/*global styling*/
 body{
   background-size: cover;
   background-repeat: no-repeat;
@@ -31,10 +31,11 @@ a:visited{
 a:hover{
   color:rgba(255, 214, 0, 1);
 }
-
 .arrow{
   text-align:center;
+  padding: 10vw;
 }
+
 
 
 /*index page*/
@@ -43,6 +44,7 @@ a:hover{
   font-family: verdana, helvetica, sans-serif;
   text-align:center;
 }
+
 .tw{
   color: rgba(255, 214, 0, 1);
   font-size: 2.5vw;
@@ -73,14 +75,11 @@ a.homepage:visited{
 }
 
 /*about page*/
-.about{
-  
-}
 .aimages{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 75%;
 }
 
 
