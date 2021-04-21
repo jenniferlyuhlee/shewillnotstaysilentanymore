@@ -2,14 +2,19 @@
 
 @font-face {
     font-family: 'reenie_beanieregular';
-    src: url('reeniebeanie-regular-webfont.woff2') format('woff2'),
-         url('reeniebeanie-regular-webfont.woff') format('woff');
+    src: url('https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Freeniebeanie-regular-webfont.woff2?v=1618885999870') format('woff2'),
+         url('https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Freeniebeanie-regular-webfont.woff?v=1618885987642') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 
 /*global styling*/
+
+h3{
+  font-family: reenie_beanieregular;
+}
+
 body{
   background-size: cover;
   background-repeat: no-repeat;
