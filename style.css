@@ -86,11 +86,14 @@ h3{
   text-align:center;
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
   color:white;
+  margin:0px;
 }
 h1.home1{
   font-family: reenie_beanieregular;
   font-size:11vw;
   font-weight: bold;
+  border: 3px solid red;
+  margin: 0, 100%;
 }
 /*
 .home2{
