@@ -36,8 +36,9 @@ a:hover{
   text-align:center;
   padding: 10vw;
 }
-.bcursor{
-   cursor: url("asset/pigeoncursor.png"), auto;
+html.cursor{
+  cursor: auto;
+  cursor: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fbutterfly.png?v=1618901369440");
 }
 
 
