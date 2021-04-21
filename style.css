@@ -61,9 +61,6 @@ marquee.tw1{
   top:0;
   left:0;
 }
-marquee.tw1:hover {
-  animation-play-state: paused;
-}
 marquee.tw2{
   position: absolute;
   bottom:0.5vh;
