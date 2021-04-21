@@ -57,16 +57,20 @@ body.index{
   font-weight: bold;
 }
 marquee.tw1{
-  border: 3px solid red;
   position: absolute;
   top:0;
+  left:0;
+}
+marquee.tw2{
+  position: absolute;
+  bottom:0.5vh;
+  left:0;
 }
 h1{
   font-size:8vw;
   left: 0;
   margin-top: 30vw;
 }
-
 h3{
   font-family: reenie_beanieregular;
   font-size: 6vw;
