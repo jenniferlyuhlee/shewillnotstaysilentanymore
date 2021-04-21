@@ -22,10 +22,6 @@ body{
   margin: 2em;
 }
 
-p{
-  font-family: Helvetica, Arial, sans-serif;
-}
-
 a:link{
   color:black;
   text-decoration:none;
@@ -41,7 +37,7 @@ a:hover{
   padding: 10vw;
 }
 .bcursor{
-  cursor: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fbutterfly.png?v=1618901369440"), auto;
+   cursor: url("asset/pigeoncursor.png"), auto;
 }
 
 
@@ -67,6 +63,8 @@ h1{
 
 h3{
   font-family: reenie_beanieregular;
+  font-size: 6vw;
+  margin:2%;
 }
 
 /*home page*/
@@ -121,16 +119,16 @@ a.homepage:hover{
 }
 .yongsu{
   border: 3px solid red;
-  width:30%;
+  width:33%;
   padding:5vh;
 }
 .bokdong{
   border: 3px solid red;
-  width:30%;
+  width:33%;
   padding:5vh;
 }
 .estelita{
   border: 3px solid red;
-  width:30%;
+  width:33%;
   padding:5vh;
 }
