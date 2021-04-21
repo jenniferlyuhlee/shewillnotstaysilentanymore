@@ -75,6 +75,11 @@ h3{
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
   color:white;
 }
+h1.home1{
+  font-family: reenie_beanieregular;
+  font-size:11vw;
+  font-weight: bold;
+}
 a.homepage:link{
   color:white;
 }
@@ -82,7 +87,7 @@ a.homepage:visited{
   color:white;
 }
 a.homepage:hover{
- background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcrossout.png?v=1618902352175");
+ background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcrossout.png?v=1618993106074");
  background-repeat:no-repeat;
  background-size: 100%;
 }
