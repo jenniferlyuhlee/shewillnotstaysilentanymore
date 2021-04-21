@@ -43,7 +43,6 @@ html.cursor{
 
 
 
-
 /*index page*/
 body.index{
   background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Ftw%20cover.png?v=1618461432258");
@@ -57,17 +56,20 @@ body.index{
   font-size: 3.5vw;
   font-weight: bold;
 }
-marquee.tw1{
+marquee.trigger{
+  
+}
+marquee.trigger.tw1{
   position: absolute;
   top:0;
   left:0;
 }
-marquee.tw2{
+marquee.trigger.tw2{
   position: absolute;
   bottom:0.5vh;
   left:0;
 }
-h1{
+h1.enter{
   font-size:7vw;
   position: absolute;
   margin:0px;
@@ -81,19 +83,19 @@ h3{
   margin:2%;
 }
 
+
 /*home page*/
 .home{
   text-align:center;
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
   color:white;
-  margin:0px;
 }
 h1.home1{
   font-family: reenie_beanieregular;
   font-size:11vw;
   font-weight: bold;
-  border: 3px solid red;
-  margin: 0, 100%;
+  left: 0;
+  margin-top: 30vw;
 }
 /*
 .home2{
@@ -117,6 +119,7 @@ a.homepage:hover{
  background-size: 100%;
  top:20%;
 }
+
 
 /*about page*/
 .aimages{
