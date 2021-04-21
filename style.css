@@ -56,15 +56,15 @@ body.index{
   font-size: 3.5vw;
   font-weight: bold;
 }
-marquee.trigger{
-  
-}
-marquee.trigger.tw1{
+marquee.tw1{
   position: absolute;
   top:0;
   left:0;
 }
-marquee.trigger.tw2{
+marquee.tw1:hover {
+  animation-play-state: paused;
+}
+marquee.tw2{
   position: absolute;
   bottom:0.5vh;
   left:0;
