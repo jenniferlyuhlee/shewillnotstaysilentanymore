@@ -100,12 +100,21 @@ a.homepage:hover{
 .archives{
   text-align: center;
 }
+#profiles{
+  display: flex;
+}
 .yongsu{
+  border: 3px solid red;
+  width:30%;
   padding:5vh;
 }
 .bokdong{
+  border: 3px solid red;
+  width:30%;
   padding:5vh;
 }
 .estelita{
+  border: 3px solid red;
+  width:30%;
   padding:5vh;
 }
