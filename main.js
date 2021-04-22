@@ -5,3 +5,13 @@ $(document).ready(function () {
 });
 
 
+
+$(document).ready(function () {   
+     $('#voice').click(function () {
+        $('.text').toggle(2000);     
+        $(this).toggleClass("bigger");
+    });
+    
+});
+
+
