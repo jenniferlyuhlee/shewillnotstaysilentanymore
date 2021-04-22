@@ -1,7 +1,5 @@
-$(document).ready(function () {   
-    $('button').click(function () {
-        $('.text').toggle();
-    });
-    
-    
+$(document).ready(function () {
+    $(function () {
+        $("#archives").draggable();
+    });   
 });
