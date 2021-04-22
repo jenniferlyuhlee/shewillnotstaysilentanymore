@@ -158,20 +158,18 @@ a.homepage:hover{
 
 
 /*mission page*/
-img#voice {
+img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
     transition: width 2s, height 2s;
 }
-
 .bigger {
     height: 400px;
     width: 400px;
     border-radius: 0%;
     transition: width 2s, height 2s;
 }
-
 .text {
     display: none;
     border: 3px solid black;
