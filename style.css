@@ -149,7 +149,7 @@ a.homepage:hover{
   width:33%;
   padding:5vh;
 }
-#archives {
+.sticky {
     position: fixed;
     background: cyan;
     width: 120px;
