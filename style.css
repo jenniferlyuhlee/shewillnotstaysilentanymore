@@ -166,12 +166,16 @@ a.homepage:hover{
     padding: 20px;
 }
 
-
-
-
-/*get invovled page*/
+/*get involved page*/
 .involved{
   text-align: center;
-  text-size: 100px;
   font-family: reenie_beanieregular;
+  font-size: 220%;
+}
+.rl{
+  position: absolute;
+  margin:0px;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

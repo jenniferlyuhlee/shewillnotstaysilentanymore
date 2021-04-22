@@ -28,7 +28,7 @@ function drawFlower(flower){
 		}
 	pop()
 }
-var list =["#fcfce3","#ffa6a6","#bbb3ff","#f9ff99","#ff8a66","#cea3e3", "#d1ff9c"]
+var list =["#fcfce3","#ffa6a6","#bbb3ff","#f9ff99","#ff8a66","#ffcb6b", "#cea3e3", "#d1ff9c"]
 var sizes = [1,0.9,1.1,0.9,0.8]
 function generateRandomFlower(x,y){
 	return{
