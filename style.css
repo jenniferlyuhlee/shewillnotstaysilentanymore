@@ -207,7 +207,11 @@ a.homepage:hover{
   width:33%;
   padding:5vh;
 }
+#archives{
+  display: flex;
+}
 .sticky {
+  border: 3px solid black;
   font-family: reenie_beanieregular;
   font-size: 2.5vw;
   position: absolute;
@@ -220,11 +224,20 @@ a.homepage:hover{
 a.link:hover{
   color:white;
 }
+.museum{
+  margin-top:12%;
+}
+.news{
+  margin-top:13%;
+}
+.articles{
+  margin-top:14%;
+}
 .shdoc{
-  margin-top:10%;
+  margin-top:8%;
 }
 .wishdoc{
-  margin-top:10%;
+  margin-top:12%;
 }
 .marrow{
   margin-top:40%;
