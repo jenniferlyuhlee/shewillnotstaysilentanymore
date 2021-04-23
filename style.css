@@ -148,15 +148,23 @@ a.homepage:hover{
 /*about page*/
 .about{
   margin:0;
+  position: absolute; 
+}
+h3#hist{
+  border: 3px solid red;
+  position: fixed;
+  margin-right: -50% 
 }
 .txt{
+   border: 3px solid red;
+  margin-top: 10%;
   margin-left: 50%;
   position:absolute;
-  border: 3px solid red;
   width:40%;
   padding:5%;
-  font-size:40%;
+  font-size: 120%;
 }
+
 /* .ab{
   font-size: 10px;
 } */
