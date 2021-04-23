@@ -157,7 +157,6 @@ a.homepage:hover{
 /*mission page*/
 .mission{
   margin:0px;
-  background-color: white;
 }
 .voice{
   width:45%;
@@ -176,12 +175,7 @@ a.homepage:hover{
   position: absolute;
   padding: 5%;
   width:60%;
-  margin-left:0%;
-    margin-right:10%;
-/*   margin: 25% 20% 0%; */
-/*   justify-content: center; */
-/*     position: fixed; */
-    align-items: center;
+  margin: 25% 10% 0% 15%;
 }
 
 
