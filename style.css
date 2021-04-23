@@ -113,7 +113,6 @@ h3{
 .home{
   text-align:center;
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
-  color:white;
 }
 h1.home1{
   font-family: reenie_beanieregular;
@@ -158,6 +157,7 @@ a.homepage:hover{
 /*mission page*/
 .mission{
   margin:0px;
+  background-color: white;
 }
 .voice{
   width:45%;
@@ -175,7 +175,13 @@ a.homepage:hover{
   background-color: rgba(255, 255, 255, 0.7);
   position: absolute;
   padding: 5%;
-  margin-top: 25%;
+  width:60%;
+  margin-left:0%;
+    margin-right:10%;
+/*   margin: 25% 20% 0%; */
+/*   justify-content: center; */
+/*     position: fixed; */
+    align-items: center;
 }
 
 
