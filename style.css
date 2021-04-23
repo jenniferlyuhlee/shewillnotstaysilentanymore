@@ -208,10 +208,9 @@ a.homepage:hover{
   padding:5vh;
 }
 #archives{
-  display: flex;
+
 }
 .sticky {
-  border: 3px solid black;
   font-family: reenie_beanieregular;
   font-size: 2.5vw;
   position: absolute;
@@ -234,10 +233,10 @@ a.link:hover{
   margin-top:14%;
 }
 .shdoc{
-  margin-top:8%;
+  margin-top:7%;
 }
 .wishdoc{
-  margin-top:12%;
+  margin-top:14%;
 }
 .marrow{
   margin-top:40%;
