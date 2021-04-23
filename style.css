@@ -177,6 +177,10 @@ a.homepage:hover{
   width:60%;
   margin: 25% 10% 0% 15%;
 }
+.marrow{
+  border: 3px solid red;
+  margin-top:50%;
+}
 
 
 /*archives page*/
