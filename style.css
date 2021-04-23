@@ -152,17 +152,20 @@ a.homepage:hover{
 }
 h3#hist{
   border: 3px solid red;
-  position: fixed;
-  margin-right: -50% 
 }
 .txt{
-   border: 3px solid red;
-  margin-top: 10%;
+  border: 3px solid red;
   margin-left: 50%;
   position:absolute;
   width:40%;
   padding:5%;
   font-size: 120%;
+}
+.text1{
+  margin-bottom: 10%;
+}
+.text2{
+  margin-bottom: 10%;
 }
 
 /* .ab{
