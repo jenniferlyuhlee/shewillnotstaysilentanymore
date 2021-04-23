@@ -146,16 +146,26 @@ a.homepage:hover{
 
 
 /*about page*/
-.text1{
-  margin-left: 50%;
-  border: 3px solid red;
-  position: absolute;
+.about{
+  margin:0;
 }
+.txt{
+  margin-left: 50%;
+  position:absolute;
+  border: 3px solid red;
+  width:40%;
+  padding:5%;
+  font-size:40%;
+}
+/* .ab{
+  font-size: 10px;
+} */
 .aimages{
 /*   display: block; */
   margin-left: auto;
 /*   margin-right: auto; */
   width: 45%;
+  border: 3px solid red;
 }
 
 
