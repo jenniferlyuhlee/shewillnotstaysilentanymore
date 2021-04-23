@@ -19,7 +19,6 @@ canvas {
 
 
 /*global styling*/
-
 h3{
   font-family: reenie_beanieregular;
 }
@@ -49,7 +48,6 @@ html.cursor{
   cursor: auto;
   cursor: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fbutterfly.png?v=1618901369440");
 }
-
 
 
 /*index page*/
@@ -159,8 +157,6 @@ a.homepage:hover{
 
 /*mission page*/
 .mission{
-  justify-content: center;
-  align-items: center;
   margin:0px;
 }
 .voice{
@@ -181,7 +177,6 @@ a.homepage:hover{
   padding: 5%;
   margin-top: 25%;
 }
-
 
 
 /*archives page*/
