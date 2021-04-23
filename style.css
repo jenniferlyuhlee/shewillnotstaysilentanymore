@@ -163,11 +163,13 @@ a.homepage:hover{
   width:45%;
   border-radius: 50%;
   transition: width 3s, height 3s;
+  margin-bottom: 30%;
 }
 .bigger {
   width: 100%;
   border-radius: 0%;
   transition: width 3s, height 3s;
+  margin-bottom:30%;
 }
 .text {
   display: none;

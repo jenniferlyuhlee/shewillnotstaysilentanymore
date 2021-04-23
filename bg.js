@@ -1,3 +1,6 @@
+//code adapted from
+//https://openprocessing.org/sketch/1135329
+
 var myFlower
 var flowers= []
 function setup() {
