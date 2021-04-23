@@ -2,10 +2,9 @@
 
 $(document).ready(function () {   
      $('.voice').click(function () {
-        $('.text').toggle(3000);     
+        $('.text').fadeToggle(2000);     
         $(this).toggleClass("bigger");
     });
-    
 });
 
 $(document).ready(function () {
