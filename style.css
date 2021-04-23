@@ -120,6 +120,7 @@ h1.home1{
   font-weight: bold;
   left: 0;
   margin-top: 30vw;
+  color: white;
 }
 /*
 .home2{
@@ -177,10 +178,6 @@ a.homepage:hover{
   width:60%;
   margin: 25% 10% 0% 15%;
 }
-.marrow{
-  border: 3px solid red;
-  margin-top:50%;
-}
 
 
 /*archives page*/
@@ -189,11 +186,14 @@ a.homepage:hover{
 }
 #profiles{
   display: flex;
+  font-family: reenie_beanieregular;
+  font-size: 3vw;
 }
 .yongsu{
   border: 3px solid red;
   width:33%;
   padding:5vh;
+ 
 }
 .bokdong{
   border: 3px solid red;
@@ -212,6 +212,10 @@ a.homepage:hover{
     height: 120px;
     padding: 20px;
 }
+.marrow{
+  margin-top:40%;
+}
+
 
 /*get involved page*/
 .involved{
