@@ -334,7 +334,29 @@ button:hover{
 button:visited{
   border: 3px solid rgba(255, 214, 0, 1);
 }
-
+.markee{
+  width: 100%
+  height: 150px;
+  overflow: hidden;
+}
+.marqueecontent{
+  display:flex;
+  list-style: none;
+  animation: scrolling 10s linear infinite;
+}
+.marqueeitem{
+  height:100%
+  width:100%
+  felx-shrink:0;
+}
+.marqueeimage{
+  height:100%;
+  width:100%;
+}
+@keyframes scrolling{
+  0%{transform: translateX(0);}
+  100%{transform:translatex(-1000px);}
+}
 
 /*get involved page*/
 .involved{
