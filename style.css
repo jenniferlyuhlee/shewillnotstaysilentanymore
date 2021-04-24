@@ -273,6 +273,71 @@ a.link:hover{
 }
 
 
+/*memorials page*/
+.memorialsP
+
+.container{
+ 	width: 500px;
+	margin: auto;
+}
+
+.item{
+	border-top: 2px solid rgba(255, 214, 0, 1);
+	padding: 2rem 0;
+	cursor: pointer;
+}
+.heading h2::before{
+/*   font-family: reenie_beanieregular; */
+	content: '+';
+	display: inline-block;
+	width: 30px;
+}
+.details{
+	line-height: 1.3;
+	display: none;
+}
+.active .heading h2::before{
+	content: '-';
+/*   font-family: reenie_beanieregular; */
+}
+.active .details{
+	display: block;
+}
+
+button{
+	font-size: 1rem;
+	font-weight: bold;
+	border: 2px solid rgba(255, 214, 0, 1);
+	background: transparent;
+	padding: 0.5rem;
+	margin-bottom: 1rem;
+	border-radius: 5px;
+}
+
+button:hover{
+	background: rgb(200 200 200);
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*get involved page*/
 .involved{
   text-align: center;

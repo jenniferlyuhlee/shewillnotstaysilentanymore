@@ -23,6 +23,8 @@ $(document).ready(function () {
 
 
 /*memorials page*/
+console.log('accordion demo');
+
 $(document).ready(function(){
 
 	//------------------------------------
