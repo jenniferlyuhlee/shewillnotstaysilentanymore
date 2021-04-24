@@ -343,7 +343,7 @@ button:visited{
   animation: scrolling 20s linear infinite;
 }
 .marqueeitem{
-  height:100%;
+  height:40%;
   width:40%; 
   flex-shrink:0;
 }
@@ -354,6 +354,10 @@ button:visited{
 @keyframes scrolling{
   0%{transform: translateX(0);}
   100%{transform:translatex(-400%);}
+}
+.europe{
+  width: 48%;
+  border: 3px solid red;
 }
 
 /*get involved page*/
