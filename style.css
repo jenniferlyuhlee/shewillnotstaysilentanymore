@@ -273,6 +273,9 @@ a.link:hover{
 
 /*memorials page*/
 .bronzegirl{
+  background-image: url("")
+}
+.bgpic{
   text-align: center;
 }
 .container{
