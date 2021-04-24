@@ -335,7 +335,7 @@ button:visited{
   border: 3px solid rgba(255, 214, 0, 1);
 }
 .markee{
-  width: 100%
+  width: 100%;
   height: 150px;
   overflow: hidden;
 }
@@ -345,9 +345,9 @@ button:visited{
   animation: scrolling 10s linear infinite;
 }
 .marqueeitem{
-  height:100%
-  width:100%
-  felx-shrink:0;
+  height:150px;
+  width:200px;
+  flex-shrink:0;
 }
 .marqueeimage{
   height:100%;
@@ -355,7 +355,7 @@ button:visited{
 }
 @keyframes scrolling{
   0%{transform: translateX(0);}
-  100%{transform:translatex(-1000px);}
+  100%{transform:translatex(-100%);}
 }
 
 /*get involved page*/
