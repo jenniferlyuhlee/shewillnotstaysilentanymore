@@ -355,9 +355,12 @@ button:visited{
   0%{transform: translateX(0);}
   100%{transform:translatex(-400%);}
 }
-.europe{
-  width: 48%;
-  border: 3px solid red;
+.statues{
+  display: flex;
+  margin-bottom:10%;
+}
+.stat{
+  width:50%;
 }
 
 /*get involved page*/
