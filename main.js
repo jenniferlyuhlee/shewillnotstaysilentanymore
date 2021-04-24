@@ -21,27 +21,21 @@ $(document).ready(function () {
 });
 
 
-
 /*memorials page*/
 console.log('accordion demo');
 
 $(document).ready(function(){
-
-	//------------------------------------
-	// show hide each itme
-	//------------------------------------
-
 	$('.item').click(function(){
 		$(this).toggleClass('active');
 	});
-
-	//---------------------------
-	// setup show hide all button
-	//---------------------------
 	$("#showhide").click(function(){
-		
 		$('.item').toggleClass('active');
 	});
 
 });
+
+$(document).ready(function () {
+    $('.memorials').css('background', 'linear-gradient(0deg, rgba(255,255,255,0) 40%, rgba(255, 214, 0, 0.5) 100%)');
+});
+
 
