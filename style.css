@@ -336,13 +336,13 @@ button:visited{
 }
 .markee{
   width: 100%;
-  height: 150px;
+  height: 100%;
   overflow: hidden;
 }
 .marqueecontent{
   display:flex;
   list-style: none;
-  animation: scrolling 10s linear infinite;
+  animation: scrolling 5s linear infinite;
 }
 .marqueeitem{
   height:150px;
@@ -355,7 +355,7 @@ button:visited{
 }
 @keyframes scrolling{
   0%{transform: translateX(0);}
-  100%{transform:translatex(-100%);}
+  100%{transform:translatex(-470%);}
 }
 
 /*get involved page*/
