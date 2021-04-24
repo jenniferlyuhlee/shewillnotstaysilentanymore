@@ -273,17 +273,16 @@ a.link:hover{
 
 /*memorials page*/
 .container{
- 	width: 500px;
+ 	width: 60%;
 	margin: auto;
 }
-
 .item{
-	border-top: 2px solid rgba(255, 214, 0, 1);
-	padding: 2rem 0;
+	border-top: 3px solid rgba(255, 214, 0, 1);
 	cursor: pointer;
 }
 h2{
   font-family: reenie_beanieregular;
+  font-size: 5vw;
 }
 .heading h2::before{
   font-family: reenie_beanieregular;
@@ -312,28 +311,13 @@ button{
 	margin-bottom: 1rem;
 	border-radius: 5px;
 }
-
 button:hover{
 	background: rgb(200 200 200);
 	cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+button:visited{
+  border: 3px solid rgba(255, 214, 0, 1);
+}
 
 
 
