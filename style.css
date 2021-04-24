@@ -274,8 +274,6 @@ a.link:hover{
 
 
 /*memorials page*/
-.memorialsP
-
 .container{
  	width: 500px;
 	margin: auto;
@@ -286,8 +284,11 @@ a.link:hover{
 	padding: 2rem 0;
 	cursor: pointer;
 }
+h2{
+  font-family: reenie_beanieregular;
+}
 .heading h2::before{
-/*   font-family: reenie_beanieregular; */
+  font-family: reenie_beanieregular;
 	content: '+';
 	display: inline-block;
 	width: 30px;
@@ -298,7 +299,7 @@ a.link:hover{
 }
 .active .heading h2::before{
 	content: '-';
-/*   font-family: reenie_beanieregular; */
+  font-family: reenie_beanieregular;
 }
 .active .details{
 	display: block;
