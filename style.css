@@ -243,7 +243,7 @@ h3#hist{
 }
 .sticky {
   font-family: reenie_beanieregular;
-  font-size: 2.5vw;
+  font-size: 3vw;
   background: rgba(0, 0, 0, 0.2);
   border-radius: 20%;
   width: 25vw;
@@ -255,16 +255,16 @@ a.link:hover{
   color:white;
 }
 .museum{
-  margin-top:12%;
+  margin-top:6%;
 }
 .news{
-  margin-top:13%;
+  margin-top:10%;
 }
 .articles{
   margin-top:14%;
 }
 .shdoc{
-  margin-top:7%;
+  margin-top:4%;
 }
 .wishdoc{
   margin-top:14%;
