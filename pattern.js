@@ -14,7 +14,7 @@ function draw() {
       //red shade changer
       var move = abs(mouseX-x);
       strokeWeight(2);
-      stroke(move, move-41, 0, 80);
+      stroke(move, move-51, 0, 90);
       
       //OCTAGON
       //polygon template, modified no. of sides
