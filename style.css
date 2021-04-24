@@ -272,6 +272,9 @@ a.link:hover{
 
 
 /*memorials page*/
+.bronzegirl{
+  text-align: center;
+}
 .container{
  	width: 60%;
 	margin: auto;
@@ -301,7 +304,6 @@ h2{
 .active .details{
 	display: block;
 }
-
 button{
 	font-size: 1rem;
 	font-weight: bold;
@@ -318,7 +320,6 @@ button:hover{
 button:visited{
   border: 3px solid rgba(255, 214, 0, 1);
 }
-
 
 
 /*get involved page*/
