@@ -1,37 +1,9 @@
-Welcome to Glitch
-=================
-
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+  The comfort women issue remains unresolved as Japan continuously neglects its liabilities and the victims remain critical of these so-called “settlements.” But the failures at proper reparation are concerning because these women have an unquestionable right to an apology—which are unfortunately being disregarded. In my aims to reinforce that right, I've created this website to encourage people not to shy away from a painful history. Discussion needs to be facilitated through education, as well as the sharing of stories, archives and resources. 
+  
+  But more importantly, I intend for this contribution to
+      - Function as a significant platform to restore these women’s voices and unveil their truths
+      - Propel their marginalized narratives to the forefront of international discourse
+      - Help shift the paradigms for representing these women as willful prostitutes("comfort women") to victimized sex slaves
+      - Get people to care
+      
+  With more attention drawn to the women themselves, prospects for a more-than-deserved proper acknowledgement, long-overdue apology, and victim-focused approaches of reparation become less insurmountable than ever before. 
