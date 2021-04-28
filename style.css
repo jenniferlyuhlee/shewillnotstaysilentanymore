@@ -155,6 +155,7 @@ h3#hist{
   text-align: center; 
   margin: 0;
   padding: 2%; 
+  top: 0px;
 }
 .txt{
   border: 3px solid red;
