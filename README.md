@@ -5,7 +5,7 @@ ABOUT
   But more importantly, I intend for this contribution to
       <br>- Function as a significant platform to restore these women’s voices and unveil their truths
       <br>- Propel their marginalized narratives to the forefront of international discourse
-      <br>- Help shift the paradigms for representing these women as willful prostitutes("comfort women") to victimized sex slaves
+      <br>- Help shift the paradigms for representing these women as willful prostitutes("comfort women") to victims of sexual slavery
       <br>- Get people to care
       
   With more attention drawn to the women themselves, prospects for a more-than-deserved proper acknowledgement, long-overdue apology, and victim-focused approaches of reparation become less insurmountable than ever before. 
