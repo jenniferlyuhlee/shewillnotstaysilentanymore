@@ -22,7 +22,6 @@ canvas {
 h3{
   font-family: reenie_beanieregular;
   text-align: center;
-  font-family: reenie_beanieregular;
   font-size: 6vw;
   margin:2%;
 }
@@ -290,6 +289,9 @@ h3.bronzegirl{
 .bgpic{
   text-align: center;
 }
+h3.explain{
+  font-size: 3vw;
+}
 p.textt{
   padding: 3% 6%;
 }
@@ -335,7 +337,7 @@ button:hover{
 	background: rgb(200 200 200);
 	cursor: pointer;
 }
-button:active{
+button:focus{
   border: 3px solid rgba(255, 214, 0, 1);
 }
 .markee{
