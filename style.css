@@ -150,6 +150,7 @@ a.homepage:hover{
 }
 h3#hist{
   border: 3px solid red;
+  position: fixed; 
 }
 .txt{
   border: 3px solid red;
@@ -158,6 +159,7 @@ h3#hist{
   width:40%;
   padding:5%;
   font-size: 120%;
+  right:0;
 }
 .text1{
   margin-bottom: 10%;
@@ -166,15 +168,14 @@ h3#hist{
   margin-bottom: 10%;
 }
 
-/* .ab{
-  font-size: 10px;
-} */
+#img{
+  position: fixed; 
+  margin-top: 10%;
+}
 .aimages{
-/*   display: block; */
-  margin-left: auto;
-/*   margin-right: auto; */
   width: 45%;
   border: 3px solid red;
+  padding: 1%;
 }
 
 
