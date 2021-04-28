@@ -96,12 +96,15 @@ marquee.tw2{
   left:0;
 }
 h1.enter{
-  font-size:7vw;
+  font-size:9vw;
   position: absolute;
   margin:0px;
   top:50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+h1{
+  font-family: reenie_beanieregular;
 }
 
 
@@ -111,7 +114,6 @@ h1.enter{
   background-image: url("https://cdn-japantimes.com/wp-content/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
 }
 h1.home1{
-  font-family: reenie_beanieregular;
   font-size:11vw;
   font-weight: bold;
   left: 0;
@@ -290,7 +292,7 @@ h3.bronzegirl{
   text-align: center;
 }
 h3.explain{
-  font-size: 3vw;
+  font-size: 3.5vw;
 }
 p.textt{
   padding: 3% 6%;
@@ -335,11 +337,16 @@ button{
 }
 button:hover{
 	background: rgb(200 200 200);
+  border: 3px solid rgba(255, 214, 0, 1);
 	cursor: pointer;
 }
-button:focus{
+button:active{
   border: 3px solid rgba(255, 214, 0, 1);
 }
+button:focus{
+  outline: 0;
+}
+
 .markee{
   overflow: hidden;
 }
