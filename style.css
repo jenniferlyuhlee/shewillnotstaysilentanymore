@@ -53,10 +53,9 @@ html.bcursor{
   position: absolute;
   top: 0; 
   left: 0;
-  width: 12%;
+  width: 15%;
   height: 50vh;
-/*   border: 3px solid red; */
-  background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Flogo.png?v=1619587560822");
+  background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Flogo.png?v=1619596020757");
   background-repeat: no-repeat;
   background-size: 100%; 
 }
