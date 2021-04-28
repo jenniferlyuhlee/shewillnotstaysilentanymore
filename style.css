@@ -320,7 +320,7 @@ h2{
 button{
 	font-size: 1rem;
 	font-weight: bold;
-	border: 2px solid rgba(255, 214, 0, 1);
+	border: 3px solid rgba(255, 214, 0, 1);
 	background: transparent;
 	padding: 0.5rem;
 	margin-bottom: 1rem;
@@ -330,7 +330,7 @@ button:hover{
 	background: rgb(200 200 200);
 	cursor: pointer;
 }
-button:visited{
+button:active{
   border: 3px solid rgba(255, 214, 0, 1);
 }
 .markee{
