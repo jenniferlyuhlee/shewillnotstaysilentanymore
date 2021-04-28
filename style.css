@@ -150,7 +150,11 @@ a.homepage:hover{
 }
 h3#hist{
   border: 3px solid red;
-  position: fixed; 
+  position: sticky; 
+  width: 100vw; 
+  text-align: center; 
+  margin: 0;
+  padding: 2%; 
 }
 .txt{
   border: 3px solid red;
