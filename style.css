@@ -342,8 +342,8 @@ button:visited{
   animation: scrolling 20s linear infinite;
 }
 .marqueeitem{
-  height:50%;
-  width:50%; 
+  height:30vh;
+  width:30vw; 
   flex-shrink:0;
 }
 .marqueeimage{
