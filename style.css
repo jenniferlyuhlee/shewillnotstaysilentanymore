@@ -56,7 +56,7 @@ html.bcursor{
   background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Flogo.png?v=1619596020757");
   background-repeat: no-repeat;
   background-size: 100%; 
-  z-index: 2;
+
 }
 
 /*index page*/
@@ -139,7 +139,6 @@ a.homepage:visited{
   color:white;
 }
 a.homepage:hover{
- /*background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcrossout%20copy.png?v=1618994363341"); */
  background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcrossout.png?v=1618993732792");
  background-repeat:no-repeat;
  background-size: 100%;
@@ -153,15 +152,12 @@ a.homepage:hover{
   position: absolute; 
 }
 h3#hist{
-/*   border: 3px solid red; */
-  position: sticky; 
+/*   position: sticky;  */
   width: 100vw; 
   text-align: center; 
   margin: 0;
   padding: 2%; 
   top: 0px;
-  background-image:url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2FScreen%20Shot%202021-04-29%20at%203.24.44%20PM.png?v=1619736066222");
-  z-index: 1;
 }
 h4.subtitle{
   font-size: 180%;
@@ -194,18 +190,20 @@ h4.subtitle{
   padding: 5%;
   font-size: 120%;
   right: 0;
+  margin-top:-5%;
 }
 
 .sticky-img {
 /*   position: fixed; */
   position: sticky;
   top: 20%;
+  bottom: 20%;
   align-self: flex-start;
 }
 
 .aimages {
   width: 45vw;
-/*   border: 3px solid yellow; */
+  border: 5px solid rgba(255, 214, 0, 1);
   padding: 1%;
 }
 
