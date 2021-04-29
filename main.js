@@ -1,6 +1,6 @@
 /*about page*/
 $(document).ready(function () {
-    $('.about').css('background', 'linear-gradient(0deg, rgba(255,255,255,0) 50%, rgba(255, 214, 0, 0.5) 100%)');
+    $('.about').css('background', 'linear-gradient(0deg, rgba(255,255,255,0) 40%, rgba(255, 214, 0, 0.5) 100%)');
 });
 
 
