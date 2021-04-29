@@ -56,7 +56,6 @@ html.bcursor{
   background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Flogo.png?v=1619596020757");
   background-repeat: no-repeat;
   background-size: 100%; 
-
 }
 
 /*index page*/
@@ -151,56 +150,34 @@ a.homepage:hover{
   margin:0;
   position: absolute; 
 }
-h3#hist{
-/*   position: sticky;  */
-  width: 100vw; 
+h3#hist{ 
   text-align: center; 
   margin: 0;
   padding: 2%; 
-  top: 0px;
+  margin-top: 2%;
+  margin-left: 5%;
 }
 h4.subtitle{
   font-size: 180%;
 }
-.txt{
-  border: 3px solid red;
-  margin-left: 50%;
-  position:absolute;
-  width:40%;
-  padding:5%;
-  font-size: 120%;
-  right:0;
-}
-.text1{
-  margin-bottom: 10%;
-}
-.text2{
-  margin-bottom: 10%;
-}
 .unit {
-/*   border: 10px solid blue; */
   display: flex;
   padding: 5vw;
 }
-
 .scroll-text {
   position: relative;
-/*   border: 3px solid green; */
   width: 40%;
   padding: 5%;
   font-size: 120%;
-  right: 0;
+  right: -3%;
   margin-top:-5%;
 }
-
 .sticky-img {
-/*   position: fixed; */
   position: sticky;
   top: 20%;
   bottom: 20%;
   align-self: flex-start;
 }
-
 .aimages {
   width: 45vw;
   border: 5px solid rgba(255, 214, 0, 1);
