@@ -177,12 +177,31 @@ h3#hist{
 .text2{
   margin-bottom: 10%;
 }
-
-#img{
+.unit {
+/*   border: 10px solid blue; */
+  display: flex;
+  padding: 5vw;
 }
-.aimages{
-  width: 45%;
-  border: 3px solid red;
+
+.scroll-text {
+  position: relative;
+  border: 3px solid green;
+  width: 40%;
+  padding: 5%;
+  font-size: 120%;
+  right: 0;
+}
+
+.sticky-img {
+/*   position: fixed; */
+  position: sticky;
+  top: 100px;
+  align-self: flex-start;
+}
+
+.aimages {
+  width: 45vw;
+  border: 3px solid yellow;
   padding: 1%;
 }
 
