@@ -1,5 +1,5 @@
 ABOUT   
-"She will not stay silent no more"  
+"She will not stay silent anymore"  
 
   The comfort women issue remains unresolved as Japan continuously neglects its liabilities and the victims remain critical of these so-called “settlements.” But the failures at proper reparation are concerning because these women have an unquestionable right to an apology—which are unfortunately being disregarded. In my aims to reinforce that right, I've created this website to encourage people not to shy away from a painful history. Discussion needs to be facilitated through education, as well as the sharing of stories, archives and resources. 
   
