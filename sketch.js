@@ -19,7 +19,7 @@ function setup() {
     let x = r * cos(radians(angle)) + width / 2;
     let y = r * sin(radians(angle)) + height / 2;
     
-    particles.push(new Particle(random(width), -50, x, y, 1.5));
+    particles.push(new Particle(random(width), -5, x, y, 1.5));
   
   }
 } 
