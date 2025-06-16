@@ -10,8 +10,8 @@ canvas {
 
 @font-face {
     font-family: 'reenie_beanieregular';
-    src: url('https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Freeniebeanie-regular-webfont.woff2?v=1618885999870') format('woff2'),
-         url('https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Freeniebeanie-regular-webfont.woff?v=1618885987642') format('woff');
+    src: url('./glitch-assets/reeniebeanie-regular-webfont.woff2') format('woff2'),
+         url('./glitch-assets/reeniebeanie-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -45,7 +45,7 @@ a:hover{
   padding: 10vw;
 }
 html.bcursor{
-  cursor: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fbutterfly.png?v=1619166414758"), auto;
+  cursor: url("./glitch-assets/butterfly.png"), auto;
 }
 .logo{
   position: absolute;
@@ -53,14 +53,14 @@ html.bcursor{
   left: 0;
   width: 18%;
   height: 50vh;
-  background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Flogo.png?v=1619738810181");
+  background-image: url("./glitch-assets/logo.png");
   background-repeat: no-repeat;
   background-size: 100%; 
 }
 
 /*index page*/
 body.index{
-  background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Ftw%20cover.png?v=1618461432258");
+  background-image: url("./glitch-assets/tw_cover.png");
   background-size: auto;
   font-family: verdana, helvetica, sans-serif;
   text-align:center;
@@ -118,7 +118,7 @@ h1{
 /*home page*/
 .home{
   text-align:center;
-  background-image: url("https://www.japantimes.co.jp/uploads/imported_images/uploads/2020/07/KYODO_2031_200728_0215_0418-1595933516.jpg");
+  background-image: url("./glitch-assets/statue.jpg");
 }
 h1.home1{
   font-size:11vw;
@@ -138,7 +138,7 @@ a.homepage:visited{
   color:white;
 }
 a.homepage:hover{
- background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcrossout.png?v=1618993732792");
+ background-image: url("./glitch-assets/crossout.png");
  background-repeat:no-repeat;
  background-size: 100%;
  top:20%;
@@ -279,7 +279,7 @@ a.link:hover{
 h3.bronzegirl{
   color: white;
   padding: 10%; 
-  background-image: url("https://cdn.glitch.com/5f40a085-d9fc-4d9d-a939-51a461e323d5%2Fcw.jpg?v=1618466960999");
+  background-image: url("./glitch-assets/cw.jpg");
   background-position: 0 20%;
   background-size: cover;
   margin:0px;
